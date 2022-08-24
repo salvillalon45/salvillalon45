@@ -5,14 +5,10 @@
 ## 👨‍💻 About Me
 My name is Salvador Villalon and I am a Software Engineer. I am from Calexico, CA 🔥. I am currently working at Accenture as an Advanced Application Engineering Analyst. 
 
----
-
 ## 🔭 Currently Working On
 At Accenture, I am a Software Engineer who has worked for Code.org and currently creating innovative full-stack applications at a **Fortune 500 Social Media Company.** I am currently a Lead Full Stack engineer leading a team of 3 off-shore engineers to deliver a brand new internal tool.
 
 I am also working on developing my Personal Website Version 3!
-
----
 
 ## 💪🏽 Value I Bring
 Qualifications include a Bachelor’s Degree in Computer Science from the University of California, Irvine, and Web Development certifications from Codecademy, freeCodeCamp, and the Odin Project. Also completed a Data Science foundation Bootcamp from the Netflix Pathways Data Science program.
@@ -23,8 +19,6 @@ I bring the following to every project:
  ✔️ Resourceful team player
  ✔️ Passion for learning and applying new things!
 
----
-
  ## ⚙️ Techonologies
  - HTML/CSS     - GraphQL
  - JavaScript   - Relay
@@ -33,8 +27,6 @@ I bring the following to every project:
  - Gatsby.js    - REST APIs
  - Node.js      - Firebase
  - Express.js   - MySQL
- - 
----
 
 ## 📫 Contact
 - salvadorvillalon54[@].gmail.com
