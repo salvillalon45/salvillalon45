@@ -27,6 +27,9 @@ I bring the following to every project:
  - Gatsby.js    - REST APIs
  - Node.js      - Firebase
  - Express.js   - MySQL
+ 
+ ## &#x1f4c8; GitHub Stats
+[![Salvador's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvillalon45&show_icons=true&theme=tokyonight)](https://github.com/salvillalon45/salvillalon45)
 
 ## 📫 Contact
 - salvadorvillalon54[@].gmail.com
