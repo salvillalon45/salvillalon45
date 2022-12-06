@@ -6,7 +6,7 @@
 My name is Salvador Villalon and I am a Software Engineer. I am from Calexico, CA 🔥. I am currently working at Accenture as an Advanced Application Engineering Analyst. 
 
 ## 🔭 Currently Working On
-At Accenture, I am a Software Engineer who has worked for Code.org and currently creating innovative full-stack applications at a **Fortune 500 Social Media Company.** I am currently a Lead Full Stack engineer leading a team of 3 off-shore engineers to deliver a brand new internal tool.
+At Accenture, I am a Software Engineer who has worked for Code.org and currently creating innovative full-stack applications at a **Fortune 500 Social Media Company.** I am collaborating with a team of 3 off-shore engineers to deliver a new internal tool.
 
 I am also working on developing my Personal Website Version 3!
 
