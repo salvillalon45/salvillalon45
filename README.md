@@ -3,10 +3,10 @@
 # Greetings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 ## 👨‍💻 About Me
-My name is Salvador Villalon and I am a Software Engineer. I am from Calexico, CA 🔥. I am currently working at Accenture as an Advanced Application Engineering Analyst. 
+My name is Salvador Villalon and I am a Software Engineer. I am from Calexico, CA 🔥. I am currently working at Accenture as an Advanced Application Engineering Senior Analyst. 
 
 ## 🔭 Currently Working On
-At Accenture, I am a Software Engineer who has worked for Code.org and currently creating innovative full-stack applications at a **Fortune 500 Social Media Company.** I am collaborating with a team of 3 off-shore engineers to deliver a new internal tool.
+At Accenture, I am a Software Engineer who has worked for Code.org and currently creating innovative full-stack applications at a **Fortune 500 Social Media Company.** I am collaborating with a team of 3 off-shore engineers to deliver a new internal tool to deliver a new internal tool to improve data capture and standardize the creation of marketing campaigns using React, Hack, GraphQL, and Relay.
 
 I am also working on developing my Personal Website Version 3!
 
