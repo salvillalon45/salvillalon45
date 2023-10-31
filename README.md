@@ -34,11 +34,11 @@ Qualifications include a Bachelor’s Degree in Computer Science from the Univer
 - [How to build a web application using Flask and deploy it to the cloud](https://medium.com/free-code-camp/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492)
 - Created a JavaScript solution to the [GitHub Issue](https://github.com/code-dot-org/piskel/pull/49) labeled as complex that the founder of Piskel issued. As a result, 67M K-12 Code.org students in all 50 US states can use [Piskel](https://github.com/piskelapp/piskel) in their preferred language
 
-I bring the following to every project:
- ✔️ Experience working on enterprise-level applications 
- ✔️ Dedication to teamwork and flexible collaboration
- ✔️ Resourceful team player
- ✔️ Passion for learning and applying new things!
+### I bring the following to every project:
+ - ✔️ Experience working on enterprise-level applications 
+ - ✔️ Dedication to teamwork and flexible collaboration
+ - ✔️ Resourceful team player
+ - ✔️ Passion for learning and applying new things!
 
  ## ⚙️ Techonologies
  - HTML/CSS     - GraphQL
