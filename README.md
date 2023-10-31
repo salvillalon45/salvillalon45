@@ -3,7 +3,7 @@
 # Greetings 👋🏽!
 
 ## 👨‍💻 About Me
-My name is Salvador Villalon and I am a Software Engineer. I am from Calexico, CA 🔥. I am currently working at Accenture as an Advanced Application Engineering Senior Analyst. 
+My name is Salvador Villalon and I am a Software Engineer from Calexico, CA 🔥. 
 
 ## 🔭 Currently Working On
 I have been working at [Accenture](https://www.accenture.com/us-en) since 2021. Through Accenture, I have worked for several clients such as
