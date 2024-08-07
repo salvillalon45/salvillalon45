@@ -3,22 +3,21 @@
 # Greetings 👋🏽!
 
 ## 👨‍💻 About Me
-My name is Salvador Villalon and I am a Software Engineer from Calexico, CA 🔥. 
+I am Salvador Villalon, a Software Engineer from Calexico, CA 🔥. 
 
 ## 🔭 Currently Working On
-I have been working at [Accenture](https://www.accenture.com/us-en) since 2021. Through Accenture, I have worked for several clients such as
-- [Code.org](https://code.org/)
-- [Meta](https://about.meta.com/)
-- Now I am currently doing full-stack applications at the [Internal Revenue Service](https://www.irs.gov/).
+Software Engineer at [Accenture](https://www.accenture.com/us-en) since 2021. 
 
-I am also a part-time Full Stack Development Instructor at [Fullstack Academy](https://www.fullstackacademy.com/) where I teach a cohort of 20 students how to become Software Engineers.
+Also a part-time Full Stack Development Instructor at [Fullstack Academy](https://www.fullstackacademy.com/) where I teach a cohort of 20 students how to become Software Engineers.
 
 ## 💪🏽 Value I Bring
 ### Education
-Qualifications include a Bachelor’s Degree in Computer Science from the University of California, Irvine. 
+Qualifications include a [Bachelor’s Degree in Computer Science from the University of California, Irvine.](https://cs.ics.uci.edu/)
 
 ### Certifications
-- Currently preparing for the **AWS Cloud Practitioner Certification** using CloudGuru self-paced course
+- [Backend Development and APIs - freeCodeCamp](https://www.freecodecamp.org/certification/salvador_villalon_jr/back-end-development-and-apis)
+- [Implementing DevOps - ICAgile](https://www.icagile.com/credentials/951940e1-23d1-4d6b-92ea-af916bcb2eff)
+- [Foundations of DevOps - ICAgile](https://www.icagile.com/credentials/951940e1-23d1-4d6b-92ea-af916bcb2eff)
 - [Agile Fundamentals - ICAgile](https://www.icagile.com/credentials/951940e1-23d1-4d6b-92ea-af916bcb2eff)
 - [JavaScript Algorithms & Data Structures - freeCodeCamp](https://www.freecodecamp.org/certification/salvador_villalon_jr/javascript-algorithms-and-data-structures)
 - [Responsive Web Design - freeCodeCamp](https://www.freecodecamp.org/certification/salvillalon45/responsive-web-design)
@@ -40,14 +39,11 @@ Qualifications include a Bachelor’s Degree in Computer Science from the Univer
  - ✔️ Resourceful team player
  - ✔️ Passion for learning and applying new things!
 
- ## ⚙️ Techonologies
- - HTML/CSS     - GraphQL
- - JavaScript   - Relay
- - TypeScript   - Hack
- - React.js     - MongoDB
- - Gatsby.js    - REST APIs
- - Node.js      - Firebase
- - Express.js   - MySQL
+ ## ⚙️ Technologies
+ - Development: HTML/CSS, JavaScript, TypeScript/Flow, React.js, NodeJS, Express.js, Zod, TypeScript Remote Procedure Call (tRPC), Mongoose, Python, Java, GraphQL, Gatsby.js, Relay, PHP/Hack 	 
+- Databases: MongoDB, Firebase, PostgreSQL
+- Cloud: AWS, Lambdas, S3, Cloudwatch, DynamoDB
+- Spoken Languages:  Bilingual, fluent in English and Spanish
  
  ## &#x1f4c8; GitHub Stats
 [![Salvador's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvillalon45&show_icons=true&theme=tokyonight)](https://github.com/salvillalon45/salvillalon45)
