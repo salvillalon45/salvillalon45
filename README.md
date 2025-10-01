@@ -6,9 +6,7 @@
 I am Salvador Villalon, a Software Engineer from Calexico, CA 🔥. 
 
 ## 🔭 Currently Working On
-Software Engineer at [Accenture](https://www.accenture.com/us-en) since 2021. 
-
-Also a part-time Full Stack Development Instructor at [Fullstack Academy](https://www.fullstackacademy.com/) where I teach a cohort of 20 students how to become Software Engineers.
+Software Engineer at [Productable](https://www.beproductable.com/). 
 
 ## 💪🏽 Value I Bring
 ### Education
