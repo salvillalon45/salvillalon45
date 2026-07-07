@@ -3,7 +3,7 @@
 # Greetings 👋🏽!
 
 ## 👨‍💻 About Me
-I am Salvador Villalon, a Software Engineer from Calexico, CA 🔥. 
+I am Salvador Villalon, a Software Engineer in Southern California 🌞. 
 
 ## 🔭 Currently Working On
 Software Engineer at [Productable](https://www.beproductable.com/). 
